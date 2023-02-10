@@ -1,0 +1,24 @@
+{
+  "name": "create-duty-ics",
+  "version": "1.0.0",
+  "description": "generate next week duty in terms of .ics file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laputacr0sx/create-duty-ics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laputacr0sx/create-duty-ics/issues"
+  },
+  "homepage": "https://github.com/laputacr0sx/create-duty-ics#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ics-js": "^0.10.2"
+  }
+}
